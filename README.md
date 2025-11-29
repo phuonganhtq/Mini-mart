@@ -12,4 +12,7 @@ Nâng cao hiệu suất quản lý bán hàng, hàng hóa, đơn đặt hàng v�
 
 Giúp thành viên nhóm nâng cao kỹ năng phân tích và phát triển phần mềm thực tế.
 
+## ***3. Công việc phụ trách***
+
+a. Thu thập và phân tích yêu cầu người dùng
 
