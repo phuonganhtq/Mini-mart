@@ -14,5 +14,8 @@ Giúp thành viên nhóm nâng cao kỹ năng phân tích và phát triển ph�
 
 ## ***3. Công việc phụ trách***
 
-a. Thu thập và phân tích yêu cầu người dùng
+a. Thu thập và phân tích yêu cầu người dùng: Gửi bộ câu hỏi cho khách hàng để thu thập thông tin và câu trả lời.
+<img width="1677" height="683" alt="image" src="https://github.com/user-attachments/assets/6d3f150f-70ba-4940-84e1-44e99e626e43" />
+
+
 
