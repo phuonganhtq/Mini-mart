@@ -16,7 +16,7 @@ Giúp thành viên nhóm nâng cao kỹ năng phân tích và phát triển ph�
 
 a. Thu thập và phân tích yêu cầu người dùng: Gửi bộ câu hỏi cho khách hàng để thu thập thông tin và câu trả lời.
 <img width="1677" height="683" alt="image" src="https://github.com/user-attachments/assets/6d3f150f-70ba-4940-84e1-44e99e626e43" />
-b. Thiết kế giao diện bằng Figma
+b. Thiết kế giao diện Admin bằng Figma
 
 https://www.figma.com/design/8W49M4P7bVOrFarAQXUAyx/Untitled?node-id=0-1&t=OGkKuC7mlomwNlAR-1
 
