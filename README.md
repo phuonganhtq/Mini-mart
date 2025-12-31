@@ -19,6 +19,8 @@ a. Thu thập và phân tích yêu cầu người dùng: Gửi bộ câu hỏi c
 b. Thiết kế giao diện Admin bằng Figma
 
 https://www.figma.com/design/8W49M4P7bVOrFarAQXUAyx/Untitled?node-id=0-1&t=OGkKuC7mlomwNlAR-1
+<img width="1176" height="628" alt="image" src="https://github.com/user-attachments/assets/ce4b18c6-7014-45ee-b244-9572064ed089" />
+
 
 c. Viết mô tả usecase từ các sơ đồ usecase để hỗ trợ đặc tả chức năng
 
