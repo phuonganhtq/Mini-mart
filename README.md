@@ -24,7 +24,8 @@ c. Viết mô tả usecase từ các sơ đồ usecase để hỗ trợ đặc t
 
 d. Thiết kế sơ đồ tuần tự (Sequence diagram)
 Sequence diagram mô tả trực quan các tương tác giữa các đối tượng trong hệ thống phần mềm theo trình tự thời gian
-![Uploading image.png…]()
+<img width="1028" height="574" alt="image" src="https://github.com/user-attachments/assets/0bde65a3-644f-4fea-8333-5c2117be364f" />
+
 
 
 
