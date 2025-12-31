@@ -22,5 +22,10 @@ https://www.figma.com/design/8W49M4P7bVOrFarAQXUAyx/Untitled?node-id=0-1&t=OGkKu
 
 c. Viết mô tả usecase từ các sơ đồ usecase để hỗ trợ đặc tả chức năng
 
+d. Thiết kế sơ đồ tuần tự (Sequence diagram)
+Sequence diagram mô tả trực quan các tương tác giữa các đối tượng trong hệ thống phần mềm theo trình tự thời gian
+![Uploading image.png…]()
+
+
 
 
